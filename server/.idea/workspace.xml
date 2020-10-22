@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97d70291-b0d8-4fb9-8886-e89626de2aee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/aRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/bRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ilcNh4MvnLEe2TU46pB7usvvi8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.14.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.69" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/routes" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/routes" />
+      <recent name="$PROJECT_DIR$/src/api" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/routes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start:es6">
+    <configuration default="true" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="node" />
+        <script value="index.js" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start:es6" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start:es6" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.start" />
+      <item itemvalue="npm.start:es6" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97d70291-b0d8-4fb9-8886-e89626de2aee" name="Default Changelist" comment="" />
+      <created>1602485581217</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602485581217</updated>
+      <workItem from="1602485582332" duration="2938000" />
+      <workItem from="1602575780939" duration="3851000" />
+      <workItem from="1603252953784" duration="1952000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="229" y="-813" width="1079" height="806" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603263389646">
+      <screen x="-359" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="229" y="-813" width="1079" height="806" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/-359.-1057.1920.1057@-359.-1057.1920.1057" timestamp="1603263389646" />
+    <state width="1388" height="217" key="GridCell.Tab.0.bottom" timestamp="1603264267080">
+      <screen x="-359" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1388" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877/-359.-1057.1920.1057@-359.-1057.1920.1057" timestamp="1603264267080" />
+    <state width="1388" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877/-359.-1057.1920.1057@0.23.1440.877" timestamp="1602556040784" />
+    <state width="1388" height="217" key="GridCell.Tab.0.center" timestamp="1603264267079">
+      <screen x="-359" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1388" height="217" key="GridCell.Tab.0.center/0.23.1440.877/-359.-1057.1920.1057@-359.-1057.1920.1057" timestamp="1603264267079" />
+    <state width="1388" height="217" key="GridCell.Tab.0.center/0.23.1440.877/-359.-1057.1920.1057@0.23.1440.877" timestamp="1602556040783" />
+    <state width="1388" height="217" key="GridCell.Tab.0.left" timestamp="1603264267079">
+      <screen x="-359" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1388" height="217" key="GridCell.Tab.0.left/0.23.1440.877/-359.-1057.1920.1057@-359.-1057.1920.1057" timestamp="1603264267079" />
+    <state width="1388" height="217" key="GridCell.Tab.0.left/0.23.1440.877/-359.-1057.1920.1057@0.23.1440.877" timestamp="1602556040782" />
+    <state width="1388" height="217" key="GridCell.Tab.0.right" timestamp="1603264267080">
+      <screen x="-359" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1388" height="217" key="GridCell.Tab.0.right/0.23.1440.877/-359.-1057.1920.1057@-359.-1057.1920.1057" timestamp="1603264267080" />
+    <state width="1388" height="217" key="GridCell.Tab.0.right/0.23.1440.877/-359.-1057.1920.1057@0.23.1440.877" timestamp="1602556040783" />
+    <state x="203" y="-897" key="SettingsEditor" timestamp="1603263856557">
+      <screen x="-359" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="203" y="-897" key="SettingsEditor/0.23.1440.877/-359.-1057.1920.1057@-359.-1057.1920.1057" timestamp="1603263856557" />
+    <state x="350" y="-1032" width="838" height="1032" key="search.everywhere.popup" timestamp="1603258816367">
+      <screen x="-359" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="350" y="-1032" width="838" height="1032" key="search.everywhere.popup/0.23.1440.877/-359.-1057.1920.1057@-359.-1057.1920.1057" timestamp="1603258816367" />
+  </component>
+</project>
