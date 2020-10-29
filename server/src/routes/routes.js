@@ -1,6 +1,6 @@
 import combineRoutes from 'koa-combine-routers';
 
-import demoRouter from './demoRouter';
+import demoRouter from './publicRouter';
 
 const router = combineRoutes(demoRouter);
 

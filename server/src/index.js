@@ -34,8 +34,6 @@ if(!isDevMode){//生产模式压缩中间件
     app.use(compress());
 }
 
-
-
 app.use(middleware);
 app.use(router());
 

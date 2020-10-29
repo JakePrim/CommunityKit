@@ -1,12 +1,10 @@
 import Router from 'koa-router';
 
-import demoController from '../api/demoController';
+import publicController from '../api/PublicController';
 
 const router = new Router();
 
-// router.prefix('/api');//所有接口的前缀
-
-router.get("/a", demoController.demo);
+router.get("/getCaptcha", publicController.getCaptcha);
 
 router.get('/',ctx=>{
     console.log(ctx.request.query);
