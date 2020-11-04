@@ -9,7 +9,7 @@ import path from 'path';
 import compose from 'koa-compose';//整合中间件
 import compress from 'koa-compress';//压缩中间件
 
-const isDevMode = (process.env.NODE_ENV === 'production' ? false : true)
+const isDevMode = (process.env.NODE_ENV !== 'production')
 
 const app = new Koa();
 // app.use(koaBody());//1. 处理request请求过来的数据

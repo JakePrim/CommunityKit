@@ -11,13 +11,5 @@ router.get('/',ctx=>{
     ctx.body = 'hello world'
 });
 
-router.post('/user',ctx=>{
-    const params = ctx.request;
-    console.log(params);
-    ctx.body={
-
-    }
-});
-
 
 export default router
